@@ -10,5 +10,6 @@ widget community.livecode.player
    property FileName get getFileName set setFileName
    metadata FileName.editor is "com.livecode.pi.file" 
    metadata FileName.label is "FileName (source)"
+   metadata FileName.default is "/opt/livecode/livecodecommunity-9.0.0-dp-11.x86_64/Resources/Sample.mpg"
    
 end widget
