@@ -1,0 +1,14 @@
+widget community.livecode.player
+   metadata title is "Player"
+   metadata author is "Max Vessi"
+   metadata version is "0.0.1"
+   
+   use com.livecode.canvas
+   use com.livecode.widget
+   use com.livecode.engine
+   
+   property FileName get getFileName set setFileName
+   metadata FileName.editor is "com.livecode.pi.file" 
+   metadata FileName.label is "FileName (source)"
+   
+end widget
