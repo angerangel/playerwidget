@@ -35,7 +35,7 @@ widget community.livecode.widget.player
    
    property currentTime get getcurrentTime set setcurrentTime
    metadata currentTime.editor is "com.livecode.pi.integer"
-   metadata currentTime.label is "Show badge"
+   metadata currentTime.label is "Time"
    metadata currentTime.default is 0
    
    
