@@ -1,2 +1,4 @@
 # playerwidget
-A new player for livecode
+A new Linux player for livecode
+
+It has all he commands of mplayer slave mode
